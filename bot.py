@@ -27,4 +27,4 @@ async def kickall(ctx):
         await bot.say('All members kicked.')
     else:
         await bot.say('Error: Not administrator')
-bot.run(config['TOKEN']['TOKEN'])
+bot.run(config['NzA1MDE2NTUwNjg3NTA2NDgz.Xq8FpA.iajRb02uulm779gt9Juqt30utAw']['NzA1MDE2NTUwNjg3NTA2NDgz.Xq8FpA.iajRb02uulm779gt9Juqt30utAw'])
